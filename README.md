@@ -4,5 +4,5 @@
  * style using
  * data fetch from openweather api
  * initialised using js
- * link:  https://coderkumars.github.io/WeatherApp/
- created by `` CoderKumarS ``
+ * link:  https://prince8574.github.io/weather-application-/
+ created by ``Prince Kumar``
